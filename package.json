@@ -225,7 +225,9 @@
       "<rootDir>/coverage",
       "<rootDir>/.eslintcache"
     ],
-    "transformIgnorePatterns": [
+    "//":"这里是注释",
+    "//": "asfasdf",
+    "transformIgnorePatterns": [ 
       "<rootDir>"
     ],
     "coverageDirectory": "<rootDir>/coverage",
